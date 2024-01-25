@@ -5,7 +5,7 @@
 
 I'm a passionate backend developer with skills in various programming languages, including Typescript, JavaScript, Java, Go, Scala, Python, and R. Additionally, I have experience in frontend development using React, Next.js, React Native, and Flutter, showcasing my versatility on both ends of the spectrum.
 
-## Tecnologías
+## Technologies
 
 - Backend: Typescript, JavaScript, Java, Go, Scala, Python, R
 - Frontend: React, Next.js, React Native, Flutter
